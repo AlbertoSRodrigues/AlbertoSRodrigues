@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working at **Zenvia as Assistant Backend Developer**
+- 🔭 I’m currently working at **Zenvia as Backend Developer**
 
 - 🌱 I’m currently learning **Swift/ iOS mobile development**
 
