@@ -27,8 +27,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertosrodrigues&repo=text-to-speech-watson" />
 </a>
 &nbsp; &nbsp;
-<a href="https://github.com/albertosrodrigues/text-to-speech-watson">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertosrodrigues&repo=text-to-speech-watson" />
+<a href="https://github.com/albertosrodrigues/to-do-list">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertosrodrigues&repo=to-do-list" />
 </a>
 </p>
  
