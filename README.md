@@ -47,5 +47,9 @@
 <a href="https://github.com/albertosrodrigues/to-do-list">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertosrodrigues&repo=to-do-list" />
 </a>
+<br><br>
+<a href="https://github.com/albertosrodrigues/eggplant-brownie">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertosrodrigues&repo=eggplant-brownie" />
+</a>
 </p>
  
