@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Zenvia as Backend Developer**
 
-- 🌱 I’m currently learning **Swift/ iOS mobile development**
+- 🌱 I’m currently learning **ReactJS // Ways to make FullStack Applications**
 
 ---
 
