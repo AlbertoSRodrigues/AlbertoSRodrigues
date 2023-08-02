@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto Sartori Rodrigues</h1>
-<h3 align="center">A passionate developer looking for new challanges.</h3> --- - 🔭 I’m currently working at **Zenvia as Backend Developer** - 🌱 I’m currently learning **ReactJS // Ways to make FullStack Applications** --- <h3 align="left">Connect with me:</h3>
+<h3 align="center">A passionate developer looking for new challanges.</h3> --- - 🔭 I’m currently working at **Smarters as Backend Developer** - 🌱 I’m currently learning **GoLang** --- <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/alberto-sartori-rodrigues/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alberto-sartori-rodrigues/" height="30" width="40" />
